@@ -22,7 +22,7 @@ You can upload a JPG or PNG image of a fashion item, and the app will predict it
 
 Here is a preview of the working web application:
 
-![App Screenshot](screenshots/app_screenshot.png)
+![App Screenshot](https://github.com/Pushti-2006/Fashion-mnist-CNN/blob/main/Screenshot%202025-07-23%20172451.png)
 
 > Screenshot from Streamlit localhost
 
